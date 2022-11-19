@@ -1,0 +1,19 @@
+{
+    "frames": [
+      {
+        "position": { "x": 0, "y": 0, "w": 240, "h": 160 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 240, "h": 160 },
+        "sourceSize": { "w": 240, "h": 160 }
+      },
+      {
+        "position": { "x": 0, "y": 160, "w": 240, "h": 160 },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": { "x": 0, "y": 0, "w": 240, "h": 160 },
+        "sourceSize": { "w": 240, "h": 160 }
+      }
+    ]
+  }
+  
